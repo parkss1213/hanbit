@@ -3,8 +3,10 @@ package syntax;
 import java.util.Scanner;
 
 /**
- * @author USER
- *
+ * 2016. 4. 16.
+ * Dvid.java
+ * ggum1213@gmail.com
+ * Story :
  */
 public class Dvid {
 	public static void main(String[] args) {
@@ -17,7 +19,6 @@ public class Dvid {
 		b = scanner.nextInt();
 		c = a/b;
 		d = a%b;
-		System.out.println(a+"/"+b+"="+c+"..."+d
-				);
+		System.out.println(a+"/"+b+"="+c+"..."+d);
 	}
 }

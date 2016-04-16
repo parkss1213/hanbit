@@ -3,8 +3,10 @@ package syntax;
 import java.util.Scanner;
 
 /**
- * @author USER
- *
+ * 2016. 4. 16.
+ * Minus.java
+ * ggum1213@gmail.com
+ * Story :
  */
 public class Minus {
 	public static void main(String[] args) {

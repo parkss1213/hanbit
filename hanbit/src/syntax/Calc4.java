@@ -1,9 +1,10 @@
 package syntax;
 
 import java.util.Scanner;
-
 /**
- * @author USER
+ * 2016. 4. 16.
+ * Calc4.java
+ * ggum1213@gmail.com
  * Story : Switch case
  */
 public class Calc4 {
@@ -19,7 +20,6 @@ public class Calc4 {
         b = scanner.nextInt();
         switch (op) {
 		case "+":
-	
 	        System. out.println(a + "+" + b + "=" + (a + b) );
 			break;
 		case "-":
@@ -32,11 +32,8 @@ public class Calc4 {
             System. out.println(a + "/" + b + "=" + (a / b) + "..." + (a % b) );
 			break;
 			
-			
-
 		default:System. out.println("연산기호를 잘못 입력했습니다.");
 			break;
 		}
-
   }
 }
