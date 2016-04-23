@@ -3,7 +3,7 @@ package rps;
 import java.util.Scanner;
 
 
-public class GameRpsMain {
+public class GameRPSMain {
 	public static void main(String[] args) {
 		System.out.println("***가위바위보게임***");
 		System.out.println("가위:1, 바위:2, 보:3");

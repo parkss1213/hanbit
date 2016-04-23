@@ -10,7 +10,7 @@ import com.sun.corba.se.spi.orbutil.fsm.Guard.Result;
  * ggum1213@gmail.com
  * Story : 가위바위보 게임
  */
-public class rps {
+public class RPS {
 	/**
 	 컴퓨터와 사용자간의 가위바위보 게임을 완성하시오
 	 Math.random()*E+S)
